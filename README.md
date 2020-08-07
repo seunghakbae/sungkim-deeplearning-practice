@@ -1,7 +1,6 @@
 # SungKimDeepLearning
 
 
-
 This is my own summary of SungKim's DeepLearning  course.
 
 
